@@ -115,7 +115,7 @@ def perspectiveapi_(text):
     'commentanalyzer',
     'v1alpha1',
     discoveryServiceUrl = DISCOVERY_URL,
-    developerKey = 'AIzaSyDP7daDi5KYkd8jUyA-ZPotw2KotDUOan0',
+    developerKey = "YOUR_PERSPECTIVE_API_KEY",
     static_discovery = False,
     )
 
@@ -162,7 +162,7 @@ def perspectiveapi_3(text):
     'commentanalyzer',
     'v1alpha1',
     discoveryServiceUrl = DISCOVERY_URL,
-    developerKey = 'AIzaSyCOrzGTUUTdwEtVSPiepSb7wt4Rooy5BfM',
+    developerKey = "YOUR_PERSPECTIVE_API_KEY",
     static_discovery = False,
     )
 
